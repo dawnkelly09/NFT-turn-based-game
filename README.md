@@ -1,3 +1,4 @@
+#WAGMI Game: Tame the Managoooor and quit your day job!<br>
 # NFT-turn-based-game<br><br>
 Replit: https://nft-game-starter-project.dawnkelly09.repl.co/
 NFT turn based game based upon Buildspace project<br><br>
